@@ -1,5 +1,5 @@
-# com-pwn-ent-days
-Com-PWN-ent days - An event to learn how to PWN web dev w/ components!
+# Com-PWN-ent days
+An event to learn how to PWN (own) the future of web development via component libraries!
 
 ## Concept:
 - 2 days, during the week, early summer, PGH near CMU/Pit preferrably
